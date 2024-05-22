@@ -7,13 +7,14 @@ import View from "./components/students/View.js"
 function App() {
   return (
     <>
-    <BrowserRouter>
+    hello
+    {/* <BrowserRouter>
        <Routes>
           <Route exact path="/" Component={Home}/>
           <Route exact path="/view/:id" Component={View}/>
           <Route exact path="/edit/:id" Component={Edit}/>
        </Routes>
-    </BrowserRouter>
+    </BrowserRouter> */}
     </>
 
     );
